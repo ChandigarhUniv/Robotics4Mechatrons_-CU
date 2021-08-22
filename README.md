@@ -34,3 +34,8 @@ Want to Show your leadership and organizing skills while developing your own Rob
 
 **All we need is your enthusiasm. All details are mentioned in the form along with the introductory video about this CLUB.**
 **LAST DATE FOR NOMINATION is 23-aUGUST-2021**
+
+Donot want to nominate, Rather Participate or Be a Spart of society,
+Join the SLACK Channel 
+![SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w​)
+
