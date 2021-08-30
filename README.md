@@ -52,11 +52,22 @@ Join the SLACK Channel
 - 3rd prize in the Code Your Thoughts competition. 
 - He has also participated in CU Heritage Event 2021 and was able to bring 2nd position in Folk singing.
 
+##### Key Skills
+- 3D modeling and Designing
+- 3D printing FDM based
+- Arduino
+- Autodesk Fusion 360 (learning on progress)
+- Topology and shape optimization
+- Generative design for additive manufacturing (learning presently)
+- Presentation and communication skills.
+- Creative Problem solving and Big picture thinking
+
 ##### His Recent works:
 -  A Corona Warrior machine, which was an automatic sanitizer dispenser that was capable of dispensing sanitizer liquids of            different viscosities with ease. Because of this machine, I was honored as Corona Warrior by Happy Club Tapa, Barnala.
 -  A 2D computerized numeric control (CNC) machine which worked as a 2D Plotter and can be used to sketch circuit diagrams on PCB      boards.
 -  A four-wheel drive Center twist mechanism suspension-based Bluetooth controlled bot which I named BLUETOBOT and its entire          Android application was also made and designed by me.
 -  A 7 channel radio transmitter and receiver based on nRF24L01 modules so that we can connect multiple receivers at one end and it    can act as a SWORM bots controller circuit.
+
 
 **His_Vision** 
 "I would like to mention that I am a responsible and trustworthy person. 
@@ -64,3 +75,15 @@ I believe that I can be one of the suitable candidates for this role and I will 
 possible to maintain the responsibilities and work assigned to me. 
 I will also be innovative where it's needed and try to give solutions to problems if they 
 are encountered by our team or club."
+
+#### [Event manager-](https://github.com/avadhutmali999)
+
+Currently pursuing his Masters in robotics and Automation, this guy has a history experience and leadership/team management skills 
+He is having a good hand on communication, coordination, and finances skills with a blend of practical/technical knowledge as he had an active participation in various events at BE level i.e Electric Solar Vehicle Championship, Ebike Racing Championship, BAJASAEINDIA-2020.
+
+**Key Skills:** Leadership, Team management, teamwork, Event organization(Cultural & technical), coordination between faculty and students, Social activities.
+##### Previous positions:
+1. Vice-President, Mechanical Engineering Students Association, ZCOER (MESA 2019-20) 
+2. Vice-Captain, Team Racing Pioneers- E-Bike (2019-20)  
+3. Electrical & Electronics Head, Team Racing Pioneers- Electrical Solar Vehicle (2018-20) 
+4. Active participation in NSS Volunteered activities (2019-21)
