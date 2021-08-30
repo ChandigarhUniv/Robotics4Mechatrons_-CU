@@ -41,7 +41,7 @@ Join the SLACK Channel
 
 ### Student Members
 
-#### Overall Co-ordinator-Preetinder Singh
+#### [Overall Co-ordinator-Preetinder Singh](Preet-mechatronics)
 
 - A very passionate being about bringing imaginative creations to real life who loves to innovate and create new projects...
 - He has filled 11 Patents and IPR's and 6 design registrations up till now. 
