@@ -75,3 +75,13 @@ He is having a good hand on communication, coordination, and finances skills wit
 2. Vice-Captain, Team Racing Pioneers- E-Bike (2019-20)  
 3. Electrical & Electronics Head, Team Racing Pioneers- Electrical Solar Vehicle (2018-20) 
 4. Active participation in NSS Volunteered activities (2019-21)
+
+#### ACTIVE Team Members
+[AJIT SOHAL](https://github.com/ajitsohal)
+[ANKIT CHAWLA](https://github.com/ankitchawla071)
+[ANKIT DAS](https://github.com/Ankitdas05)
+[KARANBIR SINGH](https://github.com/KSAlpha-gamer)
+[NIKHIL](https://github.com/Nik369-ON)
+[OM JAGGA](https://github.com/Ommmmmm05)
+[SANKET](https://github.com/snktshrma)
+[VINEET](https://github.com/Vineet184)
