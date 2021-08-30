@@ -76,7 +76,7 @@ possible to maintain the responsibilities and work assigned to me.
 I will also be innovative where it's needed and try to give solutions to problems if they 
 are encountered by our team or club."
 
-#### [Event manager-](https://github.com/avadhutmali999)
+#### [Event manager-Avadhut mali](https://github.com/avadhutmali999)
 
 Currently pursuing his Masters in robotics and Automation, this guy has a history experience and leadership/team management skills 
 He is having a good hand on communication, coordination, and finances skills with a blend of practical/technical knowledge as he had an active participation in various events at BE level i.e Electric Solar Vehicle Championship, Ebike Racing Championship, BAJASAEINDIA-2020.
