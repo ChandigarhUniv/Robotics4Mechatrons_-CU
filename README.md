@@ -78,10 +78,17 @@ He is having a good hand on communication, coordination, and finances skills wit
 
 #### ACTIVE Team Members
 [AJIT SOHAL](https://github.com/ajitsohal)
+
 [ANKIT CHAWLA](https://github.com/ankitchawla071)
+
 [ANKIT DAS](https://github.com/Ankitdas05)
+
 [KARANBIR SINGH](https://github.com/KSAlpha-gamer)
+
 [NIKHIL](https://github.com/Nik369-ON)
+
 [OM JAGGA](https://github.com/Ommmmmm05)
+
 [SANKET](https://github.com/snktshrma)
+
 [VINEET](https://github.com/Vineet184)
