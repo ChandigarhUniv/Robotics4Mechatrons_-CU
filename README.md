@@ -29,7 +29,7 @@ An official Club that aims to create a competitive environment among students of
 
 ### Student Members
 
-#### [Overall Co-ordinator-Preetinder Singh](Preet-mechatronics)
+#### [Overall Co-ordinator-Preetinder Singh](https://github.com/Preet-mechatronics)
 
 - A very passionate being about bringing imaginative creations to real life who loves to innovate and create new projects...
 - He has filled 11 Patents and IPR's and 6 design registrations up till now. 
