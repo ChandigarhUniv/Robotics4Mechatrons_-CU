@@ -25,7 +25,7 @@ An official Club that aims to create a competitive environment among students of
 ## Secretary Board
 
 ### Faculty Members
-![Faculty Members](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/Secretary%20Board.PNG)
+![Faculty Members](https://github.com/idivyanshbansal/Robotics4Mechatrons_-CU/blob/467a545deab412a63b0eb06c2adab361db50ea5e/IMAGE_DATA/secretary.png)
 
 ### Student Members
 
