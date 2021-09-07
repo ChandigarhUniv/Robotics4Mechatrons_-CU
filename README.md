@@ -19,7 +19,7 @@ An official Club that aims to create a competitive environment among students of
 **All we need from you is enthusiasm!**
 
 
-![YOUTUBE CHANNEL](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/Facilities.PNG)
+![YOUTUBE CHANNEL](https://github.com/idivyanshbansal/Robotics4Mechatrons_-CU/blob/cf0c3f80064398ead82caff0b615f514ede0d004/IMAGE_DATA/facilities-1.png)
 (https://youtu.be/L7aiQt4FjSo)
 
 ## Secretary Board
@@ -82,6 +82,8 @@ He is having a good hand on communication, coordination, and finances skills wit
 [ANKIT CHAWLA](https://github.com/ankitchawla071)
 
 [ANKIT DAS](https://github.com/Ankitdas05)
+
+[DIVYANSH BANSAL](https://github.com/idivyanshbansal)
 
 [KARANBIR SINGH](https://github.com/KSAlpha-gamer)
 
