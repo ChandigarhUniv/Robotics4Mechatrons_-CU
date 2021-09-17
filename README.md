@@ -1,7 +1,7 @@
 
 ![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
 
-# Mechatrons_Robotics_CLUB-CU                                                          **Re-Started 21-08-2021**
+# Mechatrons Robotics CLUB CU                                                          **Re-Started 21-08-2021**
 
 An official Club that aims to create a competitive environment among students of Department of Mechatronics, at Chandigarh University
 
@@ -18,9 +18,10 @@ An official Club that aims to create a competitive environment among students of
 - We cater to every individual who ever wanted to design their own circuit and control their own bot. 
 **All we need from you is enthusiasm!**
 
+(https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/facilities-1.png)
 
-![YOUTUBE CHANNEL](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/facilities-1.png)
-(https://youtu.be/L7aiQt4FjSo)
+![YOUTUBE CHANNEL](https://youtu.be/L7aiQt4FjSo)
+
 
 ## Secretary Board
 
@@ -95,4 +96,4 @@ He is having a good hand on communication, coordination, and finances skills wit
 
 [VINEET](https://github.com/Vineet184)
 
-[SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w)
+### [SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w)
