@@ -95,4 +95,4 @@ He is having a good hand on communication, coordination, and finances skills wit
 
 [VINEET](https://github.com/Vineet184)
 
-![SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w​)
+###[SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w)
