@@ -19,13 +19,13 @@ An official Club that aims to create a competitive environment among students of
 **All we need from you is enthusiasm!**
 
 
-![YOUTUBE CHANNEL](https://github.com/idivyanshbansal/Robotics4Mechatrons_-CU/blob/cf0c3f80064398ead82caff0b615f514ede0d004/IMAGE_DATA/facilities-1.png)
+![YOUTUBE CHANNEL](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/facilities-1.png)
 (https://youtu.be/L7aiQt4FjSo)
 
 ## Secretary Board
 
 ### Faculty Members
-![Faculty Members](https://github.com/idivyanshbansal/Robotics4Mechatrons_-CU/blob/467a545deab412a63b0eb06c2adab361db50ea5e/IMAGE_DATA/secretary.png)
+![Faculty Members](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/secretary.png)
 
 ### Student Members
 
