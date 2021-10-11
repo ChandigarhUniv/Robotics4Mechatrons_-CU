@@ -1,7 +1,7 @@
 
 ![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
 
-# 🤩 Mechatrons Robotics CLUB CU                                                          **Re-Started 21-08-2021** 🤩
+# Mechatrons Robotics CLUB CU                                                          **Re-Started 21-08-2021** 🤩
 
 An official Club that aims to create a competitive environment among students of Department of Mechatronics, at Chandigarh University
 
