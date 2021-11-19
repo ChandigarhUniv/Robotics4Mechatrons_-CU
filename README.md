@@ -111,9 +111,19 @@ He is having a good hand on communication, coordination, and finances skills wit
 
 [VINEET](https://github.com/Vineet184)
 
-### 🔗 [SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w) 🔗
+# Who can join?
+In general, all students are highly welcomed to register to become members as long as they show an interest in Mechatronics, engineering, and/or computer science. There are no restrictions for student registration, regardless of academic standing. We do not particularly select members since we welcome all students to join. However, our organization appreciates students that can contribute their knowledge and share their projects with the club. In other words, if you consider yourself a hacker, programmer, coder, tinkerer, or even a bit tech savvy, you’re in the club!
+
+# How do I become a member?
+[CHANDIGARH UNIVERSITY](https://github.com/orgs/ChandigarhUniv) [Robotics4mechatrons](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU) club membership is free. To sign up as a member, click here ### 🔗 [SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w) 🔗
+
+To sign up for upcoming roles, send an email to anurag.ece@cumailin
+
+# What are my responsibilities?
+
+Members in this organization are expected to respect the club and other fellow colleagues in the club. It is expected that all University rules and policies are followed. At  [Robotics4mechatrons](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU) Club we respect those who wish to give advice, suggestions, and constructive criticism in the condition that these concerns are discussed in a professional, reasonable, and non-aggressive manner. Any conduct other than such aforementioned is prohibited. Members are expected to be leaders as much as club officers. Although members may not have a highly active responsibility, members are still expected to show up to regular club events and meetings.
+
 
 **REGARDS**
 [ASSISTANT PROFESSOR, ANURAG SHARMA](https://github.com/designerguy13-photonics)
-
 **If you want to contribute, please Create a new branch for this commit and start a pull request. Learn more about pull requests.**
