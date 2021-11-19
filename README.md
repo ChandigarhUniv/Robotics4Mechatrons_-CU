@@ -1,9 +1,24 @@
 
 ![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
 
+
 # Mechatrons Robotics CLUB CU                                                          **Re-Started 21-08-2021** 🤩
 
 An official Club that aims to create a competitive environment among students of Department of Mechatronics, at Chandigarh University
+# Why join US?
+
+- Latest demonstrations in new technology
+- Build connections with people in the field
+- Enhance your resume
+- Learn how to make a product
+- Learn about entrepreneurship in mechatronics
+- Learn about Arduino and Microcontrollers
+- Learn how to write and file a patent
+- Learn about 3D printing
+- Get discounted Arduinos, components, and hoodies, Because we are campus partners with [GITHUB-CHANDIGARH UNIVERSITY](https://github.com/orgs/ChandigarhUniv)
+- Get afforable programming tutoring
+- Get affordable math tutoring
+
 
 ## About 📃
 - An interdisciplinary club, with associated faculty members from Aeronautical, Computer Science and Engineering, Electrical Engineering, Electronics and Communication Engineering and Mechanical Engineering Departments. 
