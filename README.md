@@ -125,5 +125,7 @@ Members in this organization are expected to respect the club and other fellow c
 
 
 **REGARDS**
-[ASSISTANT PROFESSOR, ANURAG SHARMA](https://github.com/designerguy13-photonics)
+
+## [ASSISTANT PROFESSOR, ANURAG SHARMA](https://github.com/designerguy13-photonics)
+
 **If you want to contribute, please Create a new branch for this commit and start a pull request. Learn more about pull requests.**
