@@ -15,7 +15,7 @@ An official Club that aims to create a competitive environment among students of
 - Learn about Arduino and Microcontrollers
 - Learn how to write and file a patent
 - Learn about 3D printing
-- Get discounted Arduinos, components, and hoodies, Because we are campus partners with [GITHUB-CHANDIGARH UNIVERSITY](https://github.com/orgs/ChandigarhUniv)
+- Get discounted Arduinos, components, and hoodies, Because we are campus partners with [GITHUB-CHANDIGARH UNIVERSITY_OFFICIAL](https://github.com/orgs/ChandigarhUniv)
 - Get afforable programming tutoring
 - Get affordable math tutoring
 
@@ -112,3 +112,8 @@ He is having a good hand on communication, coordination, and finances skills wit
 [VINEET](https://github.com/Vineet184)
 
 ### 🔗 [SLACK CHANNEL](https://join.slack.com/t/mechatronsrob-sqf1533/shared_invite/zt-ulwa1rpi-YLAnamQ4~gcXU9dOnA7E1w) 🔗
+
+**REGARDS**
+[ASSISTANT PROFESSOR, ANURAG SHARMA](https://github.com/designerguy13-photonics)
+
+**If you want to contribute, please Create a new branch for this commit and start a pull request. Learn more about pull requests.**
