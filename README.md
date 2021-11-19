@@ -5,7 +5,7 @@
 # Mechatrons Robotics CLUB CU                                                          **Re-Started 21-08-2021** 🤩
 
 An official Club that aims to create a competitive environment among students of Department of Mechatronics, at Chandigarh University
-# Why join US?
+# Why join Us ?
 
 - Latest demonstrations in new technology
 - Build connections with people in the field
