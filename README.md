@@ -133,4 +133,5 @@ Members in this organization are expected to respect the club and other fellow c
 
 # Club Activities-EVEN2022
 
+**4-8, Jan, 2022**
 [FACULTY DEVELOPMENT PROGRAM on Embedded Systems & IOT](https://github.com/ChandigarhUniv/Advance-Embedded-Systems-Design-IoT-and-Robotics-Implementation-Faculty-Development-Program--2022/blob/main/README.md)
