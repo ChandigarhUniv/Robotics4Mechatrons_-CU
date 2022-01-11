@@ -129,3 +129,8 @@ Members in this organization are expected to respect the club and other fellow c
 ## [ASSISTANT PROFESSOR, ANURAG SHARMA](https://github.com/designerguy13-photonics)
 
 **If you want to contribute, please Create a new branch for this commit and start a pull request. Learn more about pull requests.**
+
+
+# Club Activities-EVEN2022
+
+[FACULTY DEVELOPMENT PROGRAM on Embedded Systems & IOT](https://github.com/ChandigarhUniv/Advance-Embedded-Systems-Design-IoT-and-Robotics-Implementation-Faculty-Development-Program--2022/blob/main/README.md)
