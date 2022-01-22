@@ -99,7 +99,7 @@ He is having a good hand on communication, coordination, and finances skills wit
 
 [ANKIT DAS](https://github.com/Ankitdas05)
 
-[DIVYANSH BANSAL](https://github.com/idivyanshbansal)
+🚀[WEBMASTER-IEEE-RAS-DIVYANSH BANSAL](https://github.com/idivyanshbansal)
 
 [KARANBIR SINGH](https://github.com/KSAlpha-gamer)
 
