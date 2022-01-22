@@ -33,7 +33,7 @@ An official Club that aims to create a competitive environment among students of
 - We cater to every individual who ever wanted to design their own circuit and control their own bot. 
 **All we need from you is enthusiasm!**
 
-![Facilities](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/facilities-1.png)
+![[Facilities](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/eb025f79dee76c467ea541a09e8f533c6c75d3a0/IMAGE_DATA/facilities-1.png)](https://youtu.be/L7aiQt4FjSo) 
 
 ### [YOUTUBE CHANNEL](https://youtu.be/L7aiQt4FjSo) 
 
